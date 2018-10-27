@@ -1,0 +1,6 @@
+plugin:
+    name: 'eriks.contact::lang.plugin.name'
+    description: 'eriks.contact::lang.plugin.description'
+    author: eriks
+    icon: oc-icon-envelope-o
+    homepage: ''
